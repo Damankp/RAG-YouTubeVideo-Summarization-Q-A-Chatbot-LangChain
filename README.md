@@ -26,7 +26,7 @@ An interactive Streamlit app that lets you **summarize YouTube videos** and **as
 ---
 
 ## 📸 Demo  
-[![Demo](assets\demo.gif)]
+[![Demo](assets\demo_gif.gif)]
 
 The demo video is 1 minute 42 seconds
 
