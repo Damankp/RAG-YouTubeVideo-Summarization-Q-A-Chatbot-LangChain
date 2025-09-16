@@ -28,7 +28,8 @@ An interactive Streamlit app that lets you **summarize YouTube videos** and **as
 ## 📸 Demo  
 [![Demo](assets\demo_gif.gif)]
 
-Sometimes the gif does not load properly. Check in assets folder.
+Note: Sometimes the gif does not load properly. Please check the video in assets folder.
+
 ---
 
 ## ⚡ Installation  
